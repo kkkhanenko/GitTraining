@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Vitalina
+=======
+<<<<<<< HEAD
+ôûâMaking some changes...
+=======
+>>>>>>> master
+Vitalina
+FISRT COMMIT
+>>>>>>> text_vita changed first
